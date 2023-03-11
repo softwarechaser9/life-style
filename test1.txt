@@ -5,3 +5,4 @@ I have completed my BSc in 2017
 I have completed my MSc in 2020
 I have started my full stack web development 2020
 logo is centered
+New liine is added in feature branch
